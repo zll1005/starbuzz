@@ -88,3 +88,11 @@ a:visited {
   top:             30px;
   left:            365px;
 }
+.coupon {
+  position:       fixed;
+  top:            350px;
+  left:           0px;
+}
+.coupon a,img {
+  border:         none ;
+}
