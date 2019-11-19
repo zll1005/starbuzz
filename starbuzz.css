@@ -91,7 +91,7 @@ a:visited {
 .coupon {
   position:       fixed;
   top:            350px;
-  left:           0px;
+  left:           -90px;
 }
 .coupon a,img {
   border:         none ;
